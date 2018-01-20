@@ -35,7 +35,7 @@ text-decoration: none;
 transition: all 0.2s ease 0s;
 }
 a:hover {
-    color: #fff;
+    color: #333;
     text-decoration: none;
 }
 a:focus {
